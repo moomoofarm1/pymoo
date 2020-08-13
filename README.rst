@@ -151,5 +151,7 @@ Feel free to contact me if you have any question:
 | Computational Optimization and Innovation Laboratory (COIN)
 | East Lansing, MI 48824, USA
 
+********************************************************************************
 
+Added by Forked guy: Doc URL: https://pymoo.org/
 
